@@ -45,9 +45,3 @@ public class Srinija {
 - Machine Learning with Python, **IBM**
 - Java Foundation Certification, **Infosys Springboard**
 
-### GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SrinijaChallagali&show_icons=true&hide_border=true&bg_color=141B2D&title_color=6CCBFF&icon_color=F2B84B&text_color=E7EAF3" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrinijaChallagali&layout=compact&hide_border=true&bg_color=141B2D&title_color=6CCBFF&text_color=E7EAF3" height="165" alt="Top languages" />
-</p>
